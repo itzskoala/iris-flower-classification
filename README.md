@@ -1,13 +1,12 @@
 # Iris Flower Classification
-> The "Hello World" of Machine Learning — done right.
 
-A complete end-to-end ML pipeline that classifies iris flowers into three species using classical supervised learning. Built as a foundation for understanding the full data science workflow: from raw data to tuned, production-ready models.
+A complete end-to-end ML pipeline that classifies iris flowers into three species using classical supervised learning. 
 
 ---
 
 ## The Dataset
 
-150 samples. 4 features. 3 species. Zero excuses.
+150 samples. 4 features. 3 species.
 
 | Feature | Description |
 |---|---|
